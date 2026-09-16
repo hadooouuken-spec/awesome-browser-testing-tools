@@ -9,11 +9,19 @@ These tools are useful for quick checks without installing any software.
 
 ### Mouse
 
+- **DeviceCheck HQ - Mouse Tester**  
+  Buttons, scroll, double-click bounce detection and polling-rate estimate.  
+  https://devicecheckhq.com/mouse-tester/
+
 - **GearTest – Mouse Test**  
   Browser-based mouse testing tool for checking click behavior and detecting double-click issues.  
   https://www.geartest.online/mouse-test/
 
 ### Keyboard
+
+- **DeviceCheck HQ - Keyboard Tester**  
+  Every-key tester with ANSI/ISO/60% layouts, rollover (simultaneous key) counter and key-repeat timing. Free, no login.  
+  https://devicecheckhq.com/
 
 - **GearTest – Keyboard Test**  
   Online keyboard testing tool to verify key registration and detect ghosting or key conflicts.  
@@ -22,6 +30,10 @@ These tools are useful for quick checks without installing any software.
 ---
 
 ## Display / Screen Testing
+
+- **DeviceCheck HQ - Dead Pixel Test**  
+  Full-screen colour swatches with a stuck-pixel fixer and OLED gray checks; works on phones.  
+  https://devicecheckhq.com/dead-pixel-test/
 
 - **GearTest – Screen Test**  
   Browser-based full-screen color tests for detecting dead pixels and display issues.  
